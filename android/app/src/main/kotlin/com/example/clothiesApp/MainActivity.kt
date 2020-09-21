@@ -1,4 +1,4 @@
-package com.example.clothiesApp
+package com.SmartResource.Tshirt
 
 import io.flutter.embedding.android.FlutterActivity
 

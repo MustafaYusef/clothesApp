@@ -16,5 +16,9 @@
         <item name="android:windowBackground">@android:color/white</item>
      
 
+        
+
+        <item name="android:windowFullscreen">true</item>
+
     </style>
 </resources>
